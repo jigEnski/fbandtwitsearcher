@@ -1,0 +1,183 @@
+.thrColFixHdr #container{
+width: 1015px;
+height: 758px;
+/*background:url(bground.jpg);*/
+background-color: #fff;
+border: thin solid #000000;
+position: relative;
+left: 150;
+bottom: 30;
+
+}
+
+.header{
+width: 1015px;
+height: 60px;
+/*border-top:3px solid #FFFF00;
+border-bottom:3px solid #FFFF00;*/
+background-color: #333;
+position: relative;
+
+
+}
+.title{
+width: 400px;
+height: 35px;
+position: relative;
+border:transparent;
+top: 8;
+right: 40;
+color: yellow;
+
+}
+
+.member1{
+width: 220px;
+height: 350px;
+background: url(al.jpg);
+background-color: #fff;
+border: thin solid #000000;
+position: relative;
+top: 15;
+left: 500;
+
+}
+
+
+.decon{
+width: 210;
+height: 170;
+padding: 5px 5px 5px 5px;
+position: relative;
+top: 310;
+font-size: 20;
+font-weight: bold;
+}
+
+.name{
+width: 210;
+height: 50;
+font-size: 25;
+font-weight: bold;
+padding: 5px 5px 5px 5px;
+position: relative;
+color: #2F4F4F;
+top: 360;
+}
+
+
+.member2{
+width: 220px;
+height: 350px;
+background: url(redel.jpg);
+background-color: #fff;
+border: thin solid #000000;
+position: relative;
+left: 270;
+bottom:335;
+}
+
+
+.decon2{
+width: 210;
+height: 170;
+position: relative;
+padding: 5px 5px 5px 5px;
+top: 310;
+font-size: 20;
+font-weight: bold;
+}
+
+.name2{
+width: 210;
+height: 50;
+font-size: 25;
+font-weight: bold;
+position: relative;
+padding: 5px 5px 5px 5px;
+position: relative;
+color: #2F4F4F;
+top: 360;
+
+}
+
+
+.member3{
+width: 220px;
+height: 350px;
+background: url(kevs.jpg);
+background-color: #fff;
+border: thin solid #000000;
+position: relative;
+bottom: 685;
+left: 515;
+
+}
+
+.decon3{
+width: 210;
+height: 170;
+position: relative;
+padding: 5px 5px 5px 5px;
+top: 330;
+font-size: 20;
+font-weight: bold;
+}
+
+.name3{
+width: 210;
+height: 50;
+font-size: 25;
+font-weight: bold;
+padding: 5px 5px 5px 5px;
+position: relative;
+color: #2F4F4F;
+top: 360;
+}
+
+
+.member4{
+
+width: 220px;
+height: 350px;
+background: url(fred2.jpg);
+background-color: #FFF;
+border: thin solid #000000;
+position: relative;
+bottom: 1035;
+left: 765;
+}
+
+.decon4{
+width: 210;
+height: 170;
+position: relative;
+padding: 5px 5px 5px 5px;
+top: 335;
+font-size: 20;
+font-weight: bold;
+}
+
+.name4{
+width: 210;
+height: 50;
+font-size: 25;
+font-weight: bold;
+padding: 5px 5px 5px 5px;
+position: relative;
+color: #2F4F4F;
+top: 360;
+}
+
+.searchagain{
+float:right; 
+width: 150;
+height: 20;
+font-size: 15;
+border: thin solid #000000;
+font-weight: bold;
+position: relative;
+bottom: 50;
+color: yellow;
+left: 600;
+}

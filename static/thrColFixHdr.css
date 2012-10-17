@@ -1,0 +1,235 @@
+	.thrColFixHdr #container{
+	width: 1353px;
+	height: 708px;
+	background:url(car.jpg);
+	background-color: #fff;
+	/*border: thin solid #000000;*/
+	position: relative;
+	bottom: 15;
+	right: 15;
+	}
+
+	.header{
+	width: 1353px;
+	height: 60px;
+	/*border-top:3px solid #FFFF00;
+	border-bottom:3px solid #FFFF00;*/
+	background-color: #333;
+	position: relative;
+	bottom: 20;
+
+	}
+
+	.header2{
+	width: 1353px;
+	height: 60px;
+	/*border-top:3px solid #FFFF00;
+	border-bottom:3px solid #FFFF00;*/
+	background-color: #333;
+	position: relative;
+	bottom: 10;
+	left: 10;
+	}
+
+	.title{
+	width: 400px;
+	height: 35px;
+	position: relative;
+	border:transparent;
+	top: 8;
+	right: 40;
+	color: yellow;
+
+	}
+
+	.member1{
+	width: 220px;
+	height: 350px;
+	background: url(al.jpg);
+	background-color: #fff;
+	border: thin solid #000000;
+	position: relative;
+	top: 50;
+	left: 150;
+	}
+
+
+	.decon{
+	width: 210;
+	height: 170;
+	padding: 5px 5px 5px 5px;
+	position: relative;
+	top: 335;
+	font-size: 20;
+	font-weight: bold;
+	}
+
+	.name{
+	width: 210;
+	height: 50;
+	font-size: 25;
+	font-weight: bold;
+	padding: 5px 5px 5px 5px;
+	position: relative;
+	color: #2F4F4F;
+	top: 360;
+	}
+
+
+	.member2{
+	width: 220px;
+	height: 350px;
+	background: url(redel.JPG);
+	background-color: #fff;
+	border: thin solid #000000;
+	position: relative;
+	left: 410;
+	bottom:300;
+	}
+
+
+	.decon2{
+	width: 210;
+	height: 170;
+	position: relative;
+	padding: 5px 5px 5px 5px;
+	top: 320;
+	font-size: 20;
+	font-weight: bold;
+	}
+
+	.name2{
+	width: 210;
+	height: 50;
+	font-size: 25;
+	font-weight: bold;
+	position: relative;
+	padding: 5px 5px 5px 5px;
+	position: relative;
+	color: #2F4F4F;
+	top: 360;
+
+	}
+
+
+	.member3{
+	width: 220px;
+	height: 350px;
+	background: url(kevs.jpg);
+	background-color: #fff;
+	border: thin solid #000000;
+	position: relative;
+	bottom: 650;
+	left: 675;
+
+	}
+
+	.decon3{
+	width: 210;
+	height: 170;
+	position: relative;
+	padding: 5px 5px 5px 5px;
+	top: 330;
+	font-size: 20;
+	font-weight: bold;
+	}
+
+	.name3{
+	width: 210;
+	height: 50;
+	font-size: 25;
+	font-weight: bold;
+	padding: 5px 5px 5px 5px;
+	position: relative;
+	color: #2F4F4F;
+	top: 360;
+	}
+
+
+	.member4{
+
+	width: 220px;
+	height: 350px;
+	background: url(fred2.jpg);
+	background-color: #FFF;
+	border: thin solid #000000;
+	position: relative;
+	bottom: 1000;
+	left: 940;
+	}
+
+	.decon4{
+	width: 210;
+	height: 170;
+	position: relative;
+	padding: 5px 5px 5px 5px;
+	top: 335;
+	font-size: 20;
+	font-weight: bold;
+	}
+
+	.name4{
+	width: 210;
+	height: 50;
+	font-size: 25;
+	font-weight: bold;
+	padding: 5px 5px 5px 5px;
+	position: relative;
+	color: #2F4F4F;
+	top: 360;
+	}
+
+	.searchagain{
+	float:right; 
+	width: 150;
+	height: 20;
+	font-size: 15;
+	border: thin solid #000000;
+	font-weight: bold;
+	position: relative;
+	bottom: 50;
+	color: yellow;
+	left: 950;
+	}
+
+	.searchagain2{
+	float:right; 
+	width: 150;
+	height: 20;
+	font-size: 15;
+	border: thin solid #000000;
+	font-weight: bold;
+	position: relative;
+	bottom: 55;
+	color: yellow;
+	left: 950;
+	}
+
+	.banner{
+	width: 1353px;
+	height: 60px;
+	border: thin solid #000000;
+	}
+	.marq{
+	width: 1353px;
+	height: 30px;
+	border: thin solid #000000;
+	background-color: #FC0;
+	}
+
+
+	.banner2{
+	width: 1353px;
+	height: 60px;
+	border: thin solid #000000;
+	top: 10;
+	position: relative;
+	left: 8;
+	}
+	.marq2{
+	width: 1353px;
+	height: 30px;
+	border: thin solid #000000;
+	background-color: #FC0;
+
+	}
